@@ -51,7 +51,7 @@ export default function Homepage(): JSX.Element {
                         Source code on{" "}
                         <Link
                             nextLinkProps={{
-                                href: "https://github.com/yeehanchung/debug-mobile-in-app-browser"
+                                href: "https://github.com/yeehanchung/web-pdf-viewer-techniques"
                             }}
                             anchorProps={{
                                 target: "_blank"
