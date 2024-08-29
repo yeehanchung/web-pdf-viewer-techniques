@@ -1,0 +1,19 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": [
+        "source.formatDocument",
+        "source.fixAll.eslint"
+    ],
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "editor.tabSize": 4,
+    "prettier.tabWidth": 4,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+}
