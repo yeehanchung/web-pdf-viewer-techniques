@@ -9,13 +9,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/yeehanchung/web-pdf-viewer-techniques"
+        "url": "git+https://github.com/ethanpengming/web-pdf-viewer-techniques"
     },
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/yeehanchung/web-pdf-viewer-techniques/issues"
+        "url": "https://github.com/ethanpengming/web-pdf-viewer-techniques/issues"
     },
-    "homepage": "https://github.com/yeehanchung/web-pdf-viewer-techniques#readme",
+    "homepage": "https://github.com/ethanpengming/web-pdf-viewer-techniques#readme",
     "dependencies": {
         "@typescript-eslint/parser": "6.9.1",
         "next": "12.0.4",
